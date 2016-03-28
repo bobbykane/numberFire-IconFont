@@ -13,6 +13,7 @@ all icons for numberfire.com's redesign
 
 ## Icons
 ```
+// Sports
 .icon-nfl,
 .icon-nba,
 .icon-nhl,
@@ -20,6 +21,24 @@ all icons for numberfire.com's redesign
 .icon-ncaaf,
 .icon-ncaab,
 .icon-golf,
+.icon-nfl-thin,
+.icon-nba-thin,
+.icon-nhl-thin,
+.icon-mlb-thin,
+.icon-ncaaf-thin,
+.icon-ncaab-thin,
+.icon-golf-thin
+
+// Core
+.icon-projections,
+.icon-premium,
+.icon-premium-o
+
+// LIVE
+.icon-madness,
+.icon-possession
+
+// Arrows
 .icon-arrow-big-up,
 .icon-arrow-big-right,
 .icon-arrow-big-down,
@@ -29,39 +48,33 @@ all icons for numberfire.com's redesign
 .icon-arrow-down,
 .icon-arrow-left,
 .icon-checkmark,
+.icon-caret-down,
+.icon-caret-up,
+.icon-caret-left,
+.icon-caret-right,
+
+// UI
 .icon-close,
 .icon-gear,
 .icon-gears,
-.icon-projections,
-.icon-caret-down,
-.icon-caret-up,
 .icon-search,
 .icon-more,
 .icon-add,
+.icon-locked,
+.icon-help,
+.icon-bell
+
+// Logos
+.icon-numberFire,
+.icon-fanduel-f,
+.icon-fanduel,
 .icon-facebook,
 .icon-twitter,
 .icon-google,
-.icon-fanduel-f,
-.icon-fanduel,
-.icon-nfl-thin,
-.icon-nba-thin,
-.icon-nhl-thin,
-.icon-mlb-thin,
-.icon-ncaaf-thin,
-.icon-ncaab-thin,
-.icon-golf-thin,
 .icon-yahoo-y,
-.icon-madness,
-.icon-possession,
-.icon-caret-left,
-.icon-caret-right,
-.icon-premium,
-.icon-premium-o,
+
+// Checkout
 .icon-cc-visa,
 .icon-cc-master,
-.icon-cc-american,
-.icon-locked,
-.icon-help:before,
-.icon-numberFire,
-.icon-bell
+.icon-cc-american
 ```
