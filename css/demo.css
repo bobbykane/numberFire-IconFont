@@ -38,6 +38,13 @@ section.icons > .icon > .nf-icon {
     border-bottom: 1px solid #ddd;
 }
 
+h1 {
+    max-width:1200px;
+    margin: 60px auto;
+    padding-left: 10px;
+    display: block;
+}
+
 h2 {
     display: block;
     clear: both;
