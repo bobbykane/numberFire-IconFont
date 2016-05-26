@@ -1,4 +1,4 @@
-# numberFire-IconFont-1.0.0
+# numberFire-IconFont-002
 all icons for numberfire.com's redesign
 
 ## Installation
@@ -27,7 +27,9 @@ all icons for numberfire.com's redesign
 .icon-mlb-thin,
 .icon-ncaaf-thin,
 .icon-ncaab-thin,
-.icon-golf-thin
+.icon-golf-thin,
+.icon-soccer,
+.icon-soccer-thin
 
 // Core
 .icon-projections,
@@ -62,7 +64,13 @@ all icons for numberfire.com's redesign
 .icon-add,
 .icon-locked,
 .icon-help,
-.icon-bell
+.icon-bell,
+.icon-user,
+.icon-user-o,
+.icon-filter,
+.icon-wind,
+.icon-mlb-field,
+.icon-filter-sort
 
 // Logos
 .icon-numberFire,

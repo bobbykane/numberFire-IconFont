@@ -172,3 +172,27 @@
 .icon-bell:before {
     content: "\e93a";
 }
+.icon-user:before {
+    content: "\e93c";
+}
+.icon-user-o:before {
+    content: "\e93d";
+}
+.icon-filter:before {
+    content: "\e93e";
+}
+.icon-wind:before {
+    content: "\e91e";
+}
+.icon-mlb-field:before {
+    content: "\e91f";
+}
+.icon-soccer:before {
+    content: "\e920";
+}
+.icon-filter-sort:before {
+    content: "\e921";
+}
+.icon-soccer-thin:before {
+    content: "\e922";
+}

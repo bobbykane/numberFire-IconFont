@@ -1,23 +1,31 @@
+$color-darkerGray: #454545;
+
 @font-face {
-  font-family: 'numberfire-iconfont';
-  src: url("../fonts/numberfire-iconfont-001.eot?qkvv0w");
-  src: url("../fonts/numberfire-iconfont-001.eot?qkvv0w#iefix") format("embedded-opentype"), url("../fonts/numberfire-iconfont-001.ttf?qkvv0w") format("truetype"), url("../fonts/numberfire-iconfont-001.woff?qkvv0w") format("woff"), url("../fonts/numberfire-iconfont-001.svg?qkvv0w#numberfire-iconfont-001") format("svg");
-  font-weight: normal;
-  font-style: normal; }
+    font-family: 'numberfire-iconfont';
+    src:    url('../fonts/numberfire-iconfont-001.eot?qkvv0w');
+    src:    url('../fonts/numberfire-iconfont-001.eot?qkvv0w#iefix') format('embedded-opentype'),
+        url('../fonts/numberfire-iconfont-001.ttf?qkvv0w') format('truetype'),
+        url('../fonts/numberfire-iconfont-001.woff?qkvv0w') format('woff'),
+        url('../fonts/numberfire-iconfont-001.svg?qkvv0w#numberfire-iconfont-001') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .nf-icon {
-  font-family: 'numberfire-iconfont' !important;
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  color: #454545;
-  line-height: 1;
-  top: 2px;
-  font-size: inherit;
-  text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; }
+    font-family: 'numberfire-iconfont' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: $color-darkerGray;
+    line-height: 1;
+    top: 2px;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
 
 .icon-nfl:before {
     content: "\e911";
@@ -76,6 +84,9 @@
 .icon-gears:before {
     content: "\e92b";
 }
+.icon-projections:before {
+    content: "\e92c";
+}
 .icon-caret-down:before {
     content: "\e914";
 }
@@ -105,9 +116,6 @@
 }
 .icon-fanduel:before {
     content: "\e91d";
-}
-.icon-numberFire:before {
-    content: "\e939";
 }
 .icon-nfl-thin:before {
     content: "\e900";
@@ -139,9 +147,6 @@
 .icon-possession:before {
     content: "\e92e";
 }
-.icon-projections:before {
-    content: "\e92c";
-}
 .icon-caret-left:before {
     content: "\e930";
 }
@@ -169,6 +174,33 @@
 .icon-help:before {
     content: "\e938";
 }
+.icon-numberFire:before {
+    content: "\e939";
+}
 .icon-bell:before {
     content: "\e93a";
+}
+.icon-user:before {
+    content: "\e93c";
+}
+.icon-user-o:before {
+    content: "\e93d";
+}
+.icon-filter:before {
+    content: "\e93e";
+}
+.icon-wind:before {
+    content: "\e91e";
+}
+.icon-mlb-field:before {
+    content: "\e91f";
+}
+.icon-soccer:before {
+    content: "\e920";
+}
+.icon-filter-sort:before {
+    content: "\e921";
+}
+.icon-soccer-thin:before {
+    content: "\e922";
 }
