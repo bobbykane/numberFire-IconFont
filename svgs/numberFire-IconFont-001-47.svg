@@ -13,5 +13,16 @@
 	<rect x="-355" y="-261" class="st1" width="583" height="601"/>
 </g>
 <g id="Layer_1">
+	<g>
+		<path d="M4,0v8H0v28h36v-2V0H4z M34,32H6V2h28V32z"/>
+		<rect x="8" y="4" width="12" height="14"/>
+		<rect x="22" y="4" width="6" height="2"/>
+		<rect x="22" y="8" width="10" height="2"/>
+		<rect x="22" y="12" width="10" height="2"/>
+		<rect x="22" y="16" width="2" height="2"/>
+		<rect x="8" y="20" width="22" height="2"/>
+		<rect x="8" y="24" width="18" height="2"/>
+		<rect x="8" y="28" width="24" height="2"/>
+	</g>
 </g>
 </svg>
