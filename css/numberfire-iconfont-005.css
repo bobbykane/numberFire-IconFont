@@ -2,11 +2,11 @@ $color-darkerGray: #454545;
 
 @font-face {
     font-family: 'numberfire-iconfont';
-    src:    url('../fonts/numberfire-iconfont-004.eot?qkvv0w');
-    src:    url('../fonts/numberfire-iconfont-004.eot?qkvv0w#iefix') format('embedded-opentype'),
-        url('../fonts/numberfire-iconfont-004.ttf?qkvv0w') format('truetype'),
-        url('../fonts/numberfire-iconfont-004.woff?qkvv0w') format('woff'),
-        url('../fonts/numberfire-iconfont-004.svg?qkvv0w#numberfire-iconfont-001') format('svg');
+    src:    url('../fonts/numberfire-iconfont-005.eot?qkvv0w');
+    src:    url('../fonts/numberfire-iconfont-005.eot?qkvv0w#iefix') format('embedded-opentype'),
+        url('../fonts/numberfire-iconfont-005.ttf?qkvv0w') format('truetype'),
+        url('../fonts/numberfire-iconfont-005.woff?qkvv0w') format('woff'),
+        url('../fonts/numberfire-iconfont-005.svg?qkvv0w#numberfire-iconfont-001') format('svg');
     font-weight: normal;
     font-style: normal;
 }
