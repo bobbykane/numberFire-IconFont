@@ -1,88 +1,155 @@
-# numberFire-IconFont-002
-all icons for numberfire.com's redesign
+# numberFire-IconFont-006
+All icons for numberfire.com's redesign.
 
-## Installation
-```
-<link rel="stylesheet" type="text/css" href="css/numberFire-1.0.0.min.css">
-```
+Refer to demo.
 
 ## Usage
+
+### HTML
 ```
 <span class="nf-icon icon-*"></span>
 ```
 
-## Icons
+### Basic Styling
+
 ```
-// Sports
+.nf-icon {
+font-family: 'numberfire-iconfont' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  color: #454545;
+  line-height: 1;
+  top: 2px;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+```
+
+## Icons
+
+### Brand
+
+```
+.icon-numberfire-nf,
+.icon-fd
+```
+
+#### Sports
+
+```
 .icon-nfl,
 .icon-nba,
-.icon-nhl,
 .icon-mlb,
-.icon-ncaaf,
-.icon-ncaab,
-.icon-golf,
-.icon-nfl-thin,
-.icon-nba-thin,
-.icon-nhl-thin,
-.icon-mlb-thin,
-.icon-ncaaf-thin,
-.icon-ncaab-thin,
-.icon-golf-thin,
+.icon-nhl,
 .icon-soccer,
-.icon-soccer-thin
+.icon-golf,
+.icon-ncaaf,
+.icon-ncaab
+```
 
-// Core
-.icon-projections,
-.icon-premium,
-.icon-premium-o
-
-// LIVE
-.icon-madness,
-.icon-possession
-
-// Arrows
-.icon-arrow-big-up,
-.icon-arrow-big-right,
+### UI Elements
+.icon-search,
+.icon-add,
 .icon-arrow-big-down,
 .icon-arrow-big-left,
-.icon-arrow-up,
-.icon-arrow-right,
+.icon-arrow-big-right,
+.icon-arrow-big-up,
 .icon-arrow-down,
 .icon-arrow-left,
-.icon-checkmark,
+.icon-arrow-right,
+.icon-arrow-up,
 .icon-caret-down,
-.icon-caret-up,
 .icon-caret-left,
 .icon-caret-right,
-
-// UI
+.icon-caret-up,
+.icon-checkmark-c-o,
+.icon-checkmark-c,
+.icon-checkmark,
 .icon-close,
+.icon-external-link,
+.icon-share,
+.icon-create,
+.icon-edit,
 .icon-gear,
 .icon-gears,
-.icon-search,
-.icon-more,
-.icon-add,
-.icon-locked,
 .icon-help,
-.icon-bell,
+.icon-minus,
+.icon-low,
+.icon-high,
+.icon-more,
 .icon-user,
-.icon-user-o,
-.icon-filter,
-.icon-wind,
+.icon-user-o:,
+.icon-swap,
+.icon-single-view,
+.icon-feed-view,
+.icon-search,
+.icon-freeform,
+.icon-notification,
+.icon-player-news,
+.icon-player-news-new,
+.icon-premium-o,
+.icon-premium,
+.icon-projections,
+.icon-reply,
+.icon-star-full,
+.icon-star-half,
+.icon-star-o,
+.icon-todays-numbers
+
+```
+
+### DFS
+
+```
+.icon-dfs-settings,
+.icon-dome,
+.icon-locked,
+.icon-exclude,
 .icon-mlb-field,
-.icon-filter-sort
+.icon-wind,
+.icon-lineup
+```
 
-// Logos
-.icon-numberFire,
-.icon-fanduel-f,
-.icon-fanduel,
+### Scoreboard
+
+```
+.icon-possession
+```
+
+### nF Live
+
+```
+.icon-madness
+```
+
+### Social
+
+```
 .icon-facebook,
-.icon-twitter,
 .icon-google,
-.icon-yahoo-y,
+.icon-yahoo,
+.icon-twitter,
+.icon-instagram
+```
 
-// Checkout
-.icon-cc-visa,
+### Trophies
+
+```
+.icon-trophy-dfs,
+.icon-trophy-nba,
+.icon-trophy-nfl,
+.icon-trophy-nhl
+```
+
+### Payment
+
+```
+.icon-cc-american,
 .icon-cc-master,
-.icon-cc-american
+.icon-cc-visa
 ```

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-possession</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5.92983158 7.91326316 0 7.91326316 0 0 5.92983158 0 11.8596632 0 11.8596632 7.91326316 5.92983158 7.91326316"></polygon>
+    </defs>
+    <g id="Icon-Font" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-possession">
+            <g id="Page-1" transform="translate(3.000000, 5.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M11.8596632,3.95663158 C11.8596632,5.408 9.20492632,7.91326316 5.92997895,7.91326316 C2.65503158,7.91326316 -0.000126315789,5.38778947 -0.000126315789,3.95663158 C-0.000126315789,2.52547368 2.65503158,0 5.92997895,0 C9.20492632,0 11.8596632,2.50526316 11.8596632,3.95663158" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-notification</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon-Font" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-notification" fill="#000000">
+            <path d="M11,13 L13.9975267,13 C14.544239,13 15,12.5522847 15,12 L15,11.5046844 C15,11.214035 14.8440279,10.8440279 14.6516266,10.6516266 L13,9 L13,5.99074554 C13,3.78450753 11.209139,2 9,2 C6.79535615,2 5,3.78671764 5,5.99074554 L5,9 L3.34837341,10.6516266 C3.15693665,10.8430634 3,11.2259549 3,11.5046844 L3,12 C3,12.5561352 3.44882258,13 4.00247329,13 L7,13 C7,14.1045695 7.8954305,15 9,15 C10.1045695,15 11,14.1045695 11,13 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

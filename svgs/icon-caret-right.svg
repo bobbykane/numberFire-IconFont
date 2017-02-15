@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-caret-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon-Font" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-caret-right" fill="#000000">
+            <path d="M7.86435519,5.82697312 C8.21656564,5.39536213 8.78052458,5.38667742 9.13982206,5.82697312 L12.3154505,9.71849917 C12.667661,10.1501102 12.4994842,10.5 11.9492942,10.5 L5.05488305,10.5 C4.50045006,10.5 4.32942925,10.1587949 4.68872674,9.71849917 L7.86435519,5.82697312 Z" id="Rectangle" transform="translate(8.500000, 8.000000) rotate(90.000000) translate(-8.500000, -8.000000) "></path>
+        </g>
+    </g>
+</svg>

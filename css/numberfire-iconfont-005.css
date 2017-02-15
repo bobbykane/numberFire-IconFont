@@ -1,12 +1,10 @@
-$color-darkerGray: #454545;
-
 @font-face {
     font-family: 'numberfire-iconfont';
-    src:    url('../fonts/numberfire-iconfont-005.eot?qkvv0w');
-    src:    url('../fonts/numberfire-iconfont-005.eot?qkvv0w#iefix') format('embedded-opentype'),
-        url('../fonts/numberfire-iconfont-005.ttf?qkvv0w') format('truetype'),
-        url('../fonts/numberfire-iconfont-005.woff?qkvv0w') format('woff'),
-        url('../fonts/numberfire-iconfont-005.svg?qkvv0w#numberfire-iconfont-001') format('svg');
+    src:    url('file:///Users/robertkane/Desktop/repos/numberfire-iconfont/numberFire-IconFont/fonts/v5/numberfire-iconfont-005.eot?qkvv0w');
+    src:    url('file:///Users/robertkane/Desktop/repos/numberfire-iconfont/numberFire-IconFont/fonts/v5/numberfire-iconfont-005.eot?qkvv0w#iefix') format('embedded-opentype'),
+        url('file:///Users/robertkane/Desktop/repos/numberfire-iconfont/numberFire-IconFont/fonts/v5/numberfire-iconfont-005.ttf?qkvv0w') format('truetype'),
+        url('file:///Users/robertkane/Desktop/repos/numberfire-iconfont/numberFire-IconFont/fonts/v5/numberfire-iconfont-005.woff?qkvv0w') format('woff'),
+        url('file:///Users/robertkane/Desktop/repos/numberfire-iconfont/numberFire-IconFont/fonts/v5/numberfire-iconfont-005.svg?qkvv0w#numberfire-iconfont-001') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -18,7 +16,7 @@ $color-darkerGray: #454545;
     font-weight: normal;
     font-variant: normal;
     text-transform: none;
-    color: $color-darkerGray;
+    color: #454545;
     line-height: 1;
     top: 2px;
     font-size: inherit;
