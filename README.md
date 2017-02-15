@@ -53,6 +53,8 @@ Refer to demo.
 ```
 
 #### UI Elements
+
+```
 .icon-search,
 .icon-add,
 .icon-arrow-big-down,
