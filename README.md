@@ -14,7 +14,7 @@ Refer to demo.
 
 ```
 .nf-icon {
-font-family: 'numberfire-iconfont' !important;
+  font-family: 'numberfire-iconfont' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
