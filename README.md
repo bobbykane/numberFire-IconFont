@@ -32,7 +32,7 @@ Refer to demo.
 
 ## Icons
 
-### Brand
+#### Brand
 
 ```
 .icon-numberfire-nf,
@@ -52,7 +52,7 @@ Refer to demo.
 .icon-ncaab
 ```
 
-### UI Elements
+#### UI Elements
 .icon-search,
 .icon-add,
 .icon-arrow-big-down,
@@ -103,7 +103,7 @@ Refer to demo.
 
 ```
 
-### DFS
+#### DFS
 
 ```
 .icon-dfs-settings,
@@ -115,19 +115,19 @@ Refer to demo.
 .icon-lineup
 ```
 
-### Scoreboard
+#### Scoreboard
 
 ```
 .icon-possession
 ```
 
-### nF Live
+#### nF Live
 
 ```
 .icon-madness
 ```
 
-### Social
+#### Social
 
 ```
 .icon-facebook,
@@ -137,7 +137,7 @@ Refer to demo.
 .icon-instagram
 ```
 
-### Trophies
+#### Trophies
 
 ```
 .icon-trophy-dfs,
@@ -146,7 +146,7 @@ Refer to demo.
 .icon-trophy-nhl
 ```
 
-### Payment
+#### Payment
 
 ```
 .icon-cc-american,
