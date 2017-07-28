@@ -1,0 +1,266 @@
+@font-face {
+    font-family: 'numberfire-iconfont';
+    src:url('fonts/numberfire-iconfont-007.eot?qkvv0w');
+    src:url('fonts/numberfire-iconfont-007.eot?qkvv0w#iefix') format('embedded-opentype'),
+        url('fonts/numberfire-iconfont-007.ttf?qkvv0w') format('truetype'),
+        url('fonts/numberfire-iconfont-007.woff?qkvv0w') format('woff'),
+        url('fonts/numberfire-iconfont-007.svg?qkvv0w#numberfire-iconfont-001') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.nf-icon {
+    font-family: 'numberfire-iconfont' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #454545;
+    line-height: 1;
+    top: 2px;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-nfl:before {
+  content: "\e900";
+}
+.icon-nba:before {
+  content: "\e901";
+}
+.icon-mlb:before {
+  content: "\e902";
+}
+.icon-nhl:before {
+  content: "\e903";
+}
+.icon-ncaaf:before {
+  content: "\e904";
+}
+.icon-ncaab:before {
+  content: "\e905";
+}
+.icon-soccer:before {
+  content: "\e906";
+}
+.icon-golf:before {
+  content: "\e907";
+}
+.icon-checkmark-c:before {
+  content: "\e908";
+}
+.icon-checkmark-c-o:before {
+  content: "\e909";
+}
+.icon-checkmark:before {
+  content: "\e90a";
+}
+.icon-close:before {
+  content: "\e90b";
+}
+.icon-add:before {
+  content: "\e90c";
+}
+.icon-minus:before {
+  content: "\e90d";
+}
+.icon-arrow-big-down:before {
+  content: "\e90e";
+}
+.icon-arrow-big-left:before {
+  content: "\e90f";
+}
+.icon-arrow-big-right:before {
+  content: "\e910";
+}
+.icon-arrow-big-up:before {
+  content: "\e911";
+}
+.icon-arrow-down:before {
+  content: "\e912";
+}
+.icon-arrow-left:before {
+  content: "\e913";
+}
+.icon-arrow-right:before {
+  content: "\e914";
+}
+.icon-arrow-up:before {
+  content: "\e915";
+}
+.icon-caret-down:before {
+  content: "\e916";
+}
+.icon-caret-left:before {
+  content: "\e917";
+}
+.icon-caret-right:before {
+  content: "\e918";
+}
+.icon-caret-up:before {
+  content: "\e919";
+}
+.icon-high:before {
+  content: "\e91a";
+}
+.icon-low:before {
+  content: "\e91b";
+}
+.icon-swap:before {
+  content: "\e91c";
+}
+.icon-reply:before {
+  content: "\e91d";
+}
+.icon-external-link:before {
+  content: "\e91e";
+}
+.icon-share:before {
+  content: "\e91f";
+}
+.icon-create:before {
+  content: "\e920";
+}
+.icon-edit:before {
+  content: "\e921";
+}
+.icon-cc-american:before {
+  content: "\e922";
+}
+.icon-cc-master:before {
+  content: "\e923";
+}
+.icon-cc-visa:before {
+  content: "\e924";
+}
+.icon-gear:before {
+  content: "\e925";
+}
+.icon-gears:before {
+  content: "\e926";
+}
+.icon-dfs-settings:before {
+  content: "\e927";
+}
+.icon-locked:before {
+  content: "\e928";
+}
+.icon-exclude:before {
+  content: "\e929";
+}
+.icon-fd:before {
+  content: "\e92a";
+}
+.icon-numberfire-nf:before {
+  content: "\e92b";
+}
+.icon-feed-view:before {
+  content: "\e92c";
+}
+.icon-single-view:before {
+  content: "\e92d";
+}
+.icon-freeform:before {
+  content: "\e92e";
+}
+.icon-help:before {
+  content: "\e92f";
+}
+.icon-facebook:before {
+  content: "\e930";
+}
+.icon-google:before {
+  content: "\e931";
+}
+.icon-instagram:before {
+  content: "\e932";
+}
+.icon-twitter:before {
+  content: "\e933";
+}
+.icon-yahoo:before {
+  content: "\e934";
+}
+.icon-lineup:before {
+  content: "\e935";
+}
+.icon-madness:before {
+  content: "\e936";
+}
+.icon-mlb-field:before {
+  content: "\e937";
+}
+.icon-wind:before {
+  content: "\e938";
+}
+.icon-more:before {
+  content: "\e939";
+}
+.icon-notification:before {
+  content: "\e93a";
+}
+.icon-news:before {
+  content: "\e93b";
+}
+.icon-player-news:before {
+  content: "\e93c";
+}
+.icon-player-news-new:before {
+  content: "\e93d";
+}
+.icon-possession:before {
+  content: "\e93e";
+}
+.icon-premium-o:before {
+  content: "\e93f";
+}
+  content: "\e940";
+}
+.icon-projections:before {
+  content: "\e941";
+}
+.icon-search:before {
+  content: "\e942";
+}
+.icon-stadium:before {
+  content: "\e943";
+}
+.icon-dome:before {
+  content: "\e944";
+}
+.icon-star-full:before {
+  content: "\e945";
+}
+.icon-star-half:before {
+  content: "\e946";
+}
+.icon-star-o:before {
+  content: "\e947";
+}
+.icon-todays-numbers:before {
+  content: "\e948";
+}
+.icon-trophy-dfs:before {
+  content: "\e949";
+}
+.icon-trophy-nba:before {
+  content: "\e94a";
+}
+.icon-trophy-nfl:before {
+  content: "\e94b";
+}
+.icon-trophy-nhl:before {
+  content: "\e94c";
+}
+.icon-user-o:before {
+  content: "\e94d";
+}
+.icon-user:before {
+  content: "\e94e";
+}
+.icon-error:before {
+  content: "\e94f";
+}

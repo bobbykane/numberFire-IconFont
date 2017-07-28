@@ -101,7 +101,9 @@ Refer to demo.
 .icon-star-full,
 .icon-star-half,
 .icon-star-o,
-.icon-todays-numbers
+.icon-todays-numbers,
+.icon-error,
+.icon-stadium
 
 ```
 
